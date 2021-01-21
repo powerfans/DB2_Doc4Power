@@ -1,2 +1,2 @@
-# DB2_on_Power
-DB2_on_Power best practice sharing.
+# DB2 on Power
+DB2 on Power best practice sharing.
